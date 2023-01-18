@@ -1,1 +1,1 @@
-python-redmine == 2.3.0
+python-redmine == 2.4.0
